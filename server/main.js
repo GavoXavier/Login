@@ -4,8 +4,8 @@ import bodyParser from 'body-parser';
 import { Accounts } from 'meteor/accounts-base';
 import { Buffer } from 'buffer';
 
-const expectedUsername = 'your_username';
-const expectedPassword = 'your_password';
+const expectedUsername = 'QuantumPlusKe';
+const expectedPassword = 'quantumqp123';
 
 WebApp.connectHandlers.use(bodyParser.json());
 
